@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
 
 void computeSet(int integerInput) {
   int sum = 0;
